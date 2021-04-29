@@ -28,7 +28,7 @@ Nos testes de API foram validadas o retorno de cada requisição.
 
 ## 📦 Desenvolvimento
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+O projeto foi desenvolvido utilizado o padrão de projeto BDD e page objects.
 
 ## 🛠️ Construído com
 
